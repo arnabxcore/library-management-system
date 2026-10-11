@@ -94,6 +94,11 @@ WHERE br.return_date IS NULL;
 
 Through this project, I practised relational database design, SQL queries, table relationships, data retrieval, and report generation using MySQL.
 
+## 📄 License
+
+Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
+
+
 ## 👨‍💻 Author
 
 **Arnab Paul**
